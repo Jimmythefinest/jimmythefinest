@@ -19,7 +19,7 @@
 - Python 
 - PHP
 - Kotlin
-- Java Swing
+- Java Spring boot
 
 ## Current Projects
 - Chess analytics
