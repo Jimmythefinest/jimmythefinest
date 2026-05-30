@@ -1,11 +1,11 @@
-# Hi, I'm Jimmy
+# Hello there, I'm Jimmy
 
-## About Me
+## What am into 
 - Building custom  game engines
 - Working on  simulations and AI
-- Exploring reinforcement learning and transformers
-- Playing arround with symbolic AI
+- Symbolic AI
 - Web and mobile app Development
+- Electron app Development
 
 ## Technologies
 - Java
@@ -21,6 +21,6 @@
 - Java Swing
 
 ## Current Projects
-- Creature evolution simulator
-- GPU-accelerated neural network framework
-- Transformer language model in Java
+- Chess analytics
+- paltform independent game engine in java
+- symbolic Ai for NPC as a library 
