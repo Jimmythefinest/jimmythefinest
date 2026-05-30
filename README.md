@@ -1,4 +1,4 @@
-# Hello there, I'm Jimmy
+# Hello there, I'm Jim/NJ
 
 ## What am into 
 - Building custom  game engines
