@@ -6,6 +6,7 @@
 - Symbolic AI
 - Web and mobile app Development
 - Electron app Development
+- Quantitative finace by alternate data
 
 ## Technologies
 - Java
@@ -23,4 +24,5 @@
 ## Current Projects
 - Chess analytics
 - paltform independent game engine in java
-- symbolic Ai for NPC as a library 
+- symbolic Ai for NPC as a library
+- A sentiment analysis engine to correlate catch trends in their early stages
